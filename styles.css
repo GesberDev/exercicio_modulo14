@@ -1,0 +1,35 @@
+.navbar {
+    background-color: rgb(97, 97, 255);
+}
+
+.nav-link,
+.navbar-brand,
+.nav-link:hover,
+.title-white {
+    color: white;
+}
+
+.nav .nav-link.active {
+    color: rgb(97, 97, 255);
+}
+
+.btn-primary{
+    background-color: rgb(97, 97, 255);
+}
+
+.social-links li{
+    list-style: none;
+    display: inline;
+}
+
+.social-links a{
+    text-decoration: none;
+}
+
+.text-color {
+    color: rgb(97, 97, 255);
+}
+
+.background{
+    background-color: rgb(199, 199, 255);
+}
